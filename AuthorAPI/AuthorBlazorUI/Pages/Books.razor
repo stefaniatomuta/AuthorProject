@@ -1,0 +1,91 @@
+﻿@page "/Books"
+@using AuthorAPI.Models
+@using AuthorBlazorUI.Data
+@inject IRestClient restService
+<div class="container-fluid text-center">
+    <h2 class="mt-3 mb-3">Books</h2>
+    <p>
+        Filter by Book Title or Author first name: 
+        <input @oninput="@((arg) => FilterByFirstName(arg))" style="width:50px"/>
+    </p>
+        @if (authorsToShow == null || !authorsToShow.Any()) {
+            <h1>No books to show</h1>
+        }
+        else {
+            
+            <table class="table table-responsive-md">
+                <thead class="thead-light">
+                <tr>
+                    <th scope="col">Title</th>
+                    <th scope="col">Publication Year</th>
+                    <th scope="col">Number of pages</th>
+                    <th scope="col">Author First name</th>
+                    <th scope="col">Author Last name</th>
+                    <th scope="col">Remove</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (Author author in authorsToShow) {
+                    @foreach (Book book in author.Books) {
+                        <tr class="family-row">
+                            <td>@book.Title</td>
+                            <td>@book.PublicationYear</td>
+                            <td>@book.NumOfPages</td>
+                            <td>@author.FirstName</td>
+                            <td>@author.LastName</td>
+                             <td>
+                                <button @onclick="@(() => RemoveBook(book.ISBN))">
+                                    <i class="oi oi-trash" style="color:red"/>
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                }
+                </tbody>
+            </table>
+            <div class="container text-center text-danger">
+                <div>@errorMessage</div>
+            </div>
+        }
+</div>
+
+@code {
+    private IList<Author> authors;
+    private IList<Author> authorsToShow;
+    private string errorMessage;
+
+    private string? filterByAuthor;
+    
+    protected override async Task OnInitializedAsync() {
+        authors = await restService.GetAsync<Author>();
+        authorsToShow = authors;
+    }
+
+    private async Task RemoveBook(int isbn) {
+        try {
+            await restService.DeleteAsync<Book>(isbn);
+            foreach (Author a in authorsToShow) {
+                Book b = a.Books.FirstOrDefault(b => b.ISBN == isbn);
+                a.Books.Remove(b);
+            }
+        }
+        catch(Exception e) {
+            errorMessage = e.Message;
+        }
+    }
+
+    private void FilterByFirstName(ChangeEventArgs changeEventArgs) {
+        try {
+            filterByAuthor = changeEventArgs.Value.ToString().ToLower().Trim();
+            if (filterByAuthor == null) {
+                authorsToShow = authors;
+            }
+            else
+                authorsToShow = authors.Where(t => (t.FirstName.ToLower().Equals(filterByAuthor))
+                                                      || ( t.Books.Any(b => b.Title.ToLower().Equals(filterByAuthor)))).ToList();
+        }
+        catch (Exception e) {
+            errorMessage = e.Message;
+        }
+    }
+}

@@ -1,0 +1,52 @@
+﻿@page "/AddAuthor"
+@using AuthorAPI.Models
+@using AuthorBlazorUI.Data
+@inject IRestClient restClient
+
+<div class="container mt-6 mb-6 p-6 my-auto h-100 w-50">
+    <div class="card p-4">
+        <div class="d-flex flex-column justify-content-center align-items-center col-sm">
+            <h3>Add a New Author</h3>
+            <EditForm Model="@author" OnSubmit="@CreateAuthorAsync">
+                <DataAnnotationsValidator/>
+                <ValidationSummary/>
+                <p>First name:</p>
+                <div class="form-group"> 
+                    <InputText @bind-Value="author.FirstName"/>
+                </div>
+                <ValidationMessage For="@(() => author.FirstName)"/>
+
+                <p>Last name:</p>
+                <div class="form-group">
+                    <InputText @bind-Value="author.LastName"/>
+                </div>
+                <ValidationMessage For="@(() => author.LastName)"/>
+                <p class="actions">
+                    <button class="btn btn-outline-dark" type="submit">Add Author</button>
+                </p>
+                <label style="color: red">@error</label>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+@code {
+    private Author author =  new Author();
+    private string error = "";
+    
+    protected override async Task OnInitializedAsync() {
+    }
+
+    private async Task CreateAuthorAsync() {
+        try {
+            await restClient.PostAsync(new Author() {
+                FirstName = author.FirstName,
+                LastName = author.LastName
+            });
+        }
+        catch (Exception e) {
+            error = e.Message;
+        }
+        
+    }
+}

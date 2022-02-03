@@ -1,0 +1,196 @@
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.deps.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.runtimeconfig.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.runtimeconfig.dev.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.exe
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\appsettings.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.StaticWebAssets.xml
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.exe
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.deps.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.runtimeconfig.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.runtimeconfig.dev.json
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\ref\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.pdb
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.Views.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.Views.pdb
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.pdb
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.csproj.AssemblyReference.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.AssemblyInfoInputs.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.AssemblyInfo.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.csproj.CoreCompileInputs.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorComponent.input.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\AddAuthor.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\AddBook.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorComponent.output.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.TagHelpers.input.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.TagHelpers.output.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorCoreGenerate.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\AddAuthor.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\AddBook.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorAssemblyInfo.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorAssemblyInfo.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\staticwebassets\AuthorBlazorUI.StaticWebAssets.Manifest.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\staticwebassets\AuthorBlazorUI.StaticWebAssets.xml
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\bundle\AuthorBlazorUI.styles.css
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\projectbundle\AuthorBlazorUI.bundle.scp.css
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorTargetAssemblyInfo.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorTargetAssemblyInfo.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.Views.pdb
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.csproj.CopyComplete
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\ref\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.pdb
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.genruntimeconfig.cache
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\Books.razor.g.cs
+C:\Users\tomut\Desktop\[304173]-Exam-A21\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Books.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\appsettings.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.deps.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.runtimeconfig.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.runtimeconfig.dev.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.exe
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.StaticWebAssets.xml
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.exe
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.deps.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.runtimeconfig.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.runtimeconfig.dev.json
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\ref\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.pdb
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.Views.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorBlazorUI.Views.pdb
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\bin\Debug\net5.0\AuthorAPI.pdb
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.csproj.AssemblyReference.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.AssemblyInfoInputs.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.AssemblyInfo.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.csproj.CoreCompileInputs.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorComponent.input.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\AddAuthor.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\AddBook.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\Books.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorComponent.output.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\RazorDeclaration\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.TagHelpers.input.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.TagHelpers.output.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorCoreGenerate.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\AddAuthor.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\AddBook.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Books.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorAssemblyInfo.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorAssemblyInfo.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\staticwebassets\AuthorBlazorUI.StaticWebAssets.Manifest.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\staticwebassets\AuthorBlazorUI.StaticWebAssets.xml
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\bundle\AuthorBlazorUI.styles.css
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\scopedcss\projectbundle\AuthorBlazorUI.bundle.scp.css
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorTargetAssemblyInfo.cache
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.RazorTargetAssemblyInfo.cs
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.Views.pdb
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.csproj.CopyComplete
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\ref\AuthorBlazorUI.dll
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.pdb
+C:\Users\tomut\Desktop\Test Exams\AuthorAPI\AuthorBlazorUI\obj\Debug\net5.0\AuthorBlazorUI.genruntimeconfig.cache
